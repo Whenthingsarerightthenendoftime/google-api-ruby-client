@@ -8,11 +8,11 @@ For Google Cloud Platform APIs such as Datastore, Cloud Storage or Pub/Sub, we r
 
 ## Migrating from 0.8.x
 
-See [MIGRATING](MIGRATING.md) for additional details on how to migrate to the latest version.
+See the  [MIGRATING](MIGRATING.md) for additional details on how to migrate to the latest version.
 
 ## Documentation
 
-Learn how to use the Google API Client Library for Ruby with these guides:
+Learn how to use the Google API Client Library for Ruby with help of  these guides:
 
 ### Usage Guides
 
